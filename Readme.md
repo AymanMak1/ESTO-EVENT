@@ -1,3 +1,4 @@
+# ESTO EVENT
 This project is an intranet website for the management of events organized at my university, the higher school of technology 'ESTO'.
 
 For everybody interested on php and javascript, this project is for you, it is based on these two languages, even github gives CSS A huge percentage ( 52.7% ), it's just because I downloaded all the dependencies on my root folder so I don't have problems with CDN etc...
